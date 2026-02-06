@@ -1,14 +1,13 @@
 # Git Installation Assignment Submission
 
-## Student Information
+## Student Information:
 
-**Name:** [Your Full Name]
+**Name:** Mithra.MS
 
-**Student ID:** [Your Student ID]
+**Student ID:** 2025IT0316
 
-**Date:** [Submission Date]
-
-**Operating System:** [Windows / macOS / Linux (specify distribution)]
+**Date:** 06-02-2026
+**Operating System:** Windows
 
 ---
 
@@ -19,7 +18,7 @@
 Paste the output of `git --version` here:
 
 ```
-[Paste output here]
+git version 2.53.0.windows.1
 ```
 
 ### Username (whoami output)
@@ -27,41 +26,39 @@ Paste the output of `git --version` here:
 Paste the output of `whoami` here:
 
 ```
-[Paste output here]
+Mithra M S
 ```
 
 ---
 
 ## Screenshot
 
-**Screenshot File Path:** `screenshots/git_installation_[your_name].[png/jpg]`
-
+**Screenshot File Path:** C:\Users\Mithra M S\Downloads\getting-started-with-git-2025it0316-mithra\screenshots\git_installation_mithra.png
 **Screenshot Description:** 
 [Briefly describe what is shown in your screenshot - e.g., "Git Bash window showing whoami command with output 'john_doe'"]
 
----
+Git Bash window showing whoamim command with output Mithra M S---
 
 ## Installation Experience
 
 ### Installation Method Used
 
-[Describe which installation method you used - e.g., "Downloaded installer from git-scm.com", "Used Homebrew", etc.]
+Downloaded git from its official website git with https://git-scm.com
 
 ### Did you encounter any issues during installation?
 
-[Yes/No - If yes, briefly describe the issue and how you resolved it]
-
+No
 ---
 
 ## Verification
 
-- [ ] Git is successfully installed on my machine
-- [ ] I can run `git --version` command successfully
-- [ ] I can run `whoami` command successfully
-- [ ] I have taken a screenshot showing the `whoami` command execution
-- [ ] I have added my screenshot to the `screenshots/` folder
-- [ ] I have filled out all required information in this file
-- [ ] I have committed and pushed my changes to the repository
+- [x] Git is successfully installed on my machine
+- [x] I can run `git --version` command successfully
+- [x] I can run `whoami` command successfully
+- [x] I have taken a screenshot showing the `whoami` command execution
+- [x] I have added my screenshot to the `screenshots/` folder
+- [x] I have filled out all required information in this file
+- [x] I have committed and pushed my changes to the repository
 
 ---
 
@@ -69,8 +66,8 @@ Paste the output of `whoami` here:
 
 [Optional: Add any additional comments, questions, or feedback about the assignment]
 
----
+Nothing
 
 **Submission Date:** [Auto-filled when you commit]
 
-**Repository URL:** [Your GitHub Classroom repository URL]
+**Repository URL:** https://github.com/ait-svce/getting-started-with-git-2025it0316-mithra.git
